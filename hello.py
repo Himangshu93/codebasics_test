@@ -6,3 +6,5 @@ print({x:x*x for x in range(3)})
 =======
 print("This is the change")
 >>>>>>> parent of 182a67b (new module user added)
+print("This code is for master branch")
+
